@@ -7,7 +7,7 @@
 
 <h5>Modules Utilized</h5>
 
-> Java (OpenJDK), Spark (FindSpark, PySpark)
+> Java (OpenJDK 11), Spark 3.4.2 (FindSpark, PySpark)
 > 
 
 <h5>Code source and Usage:</h5>
