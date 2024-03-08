@@ -28,7 +28,7 @@
 
 <h5>Features and Tests</h5>
 
-> The main purpose of Query-Big-Data is to demonstrate how to optimize Spark when handling big data. The first method demonstrated in Query-Big-Data is caching, and the second method demonstrated combines partitioning and using parquet files.
+> The main purpose of Query-Big-Data is to demonstrate how to optimize Spark when handling big data. The first method demonstrated in Query-Big-Data is caching information to memory, and the second method is taking equal partitions of data that has been converted to a parquet file.
 > 
 
 <h5>Contact:</h5>
