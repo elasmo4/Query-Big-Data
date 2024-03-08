@@ -7,13 +7,7 @@
 
 <h5>Modules Utilized</h5>
 
-> - Java
->   - Spark
->     - FindSpark
->     - PySpark
->       - SparkFiles
->     - PySpark.SQL
->       - SparkSession, Time
+> Java (OpenJDK), Spark (FindSpark, PySpark)
 > 
 
 <h5>Code source and Usage:</h5>
